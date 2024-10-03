@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavaLoop23
-- 👀 I’m interested in Pogramming.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Video games, Movies, And weight lifting.
+- 🌱 I’m currently learning Python3.
 - 💞️ I’m looking to collaborate on Learning to code.
 - 📫 How to reach me rosencapriceil@gmail.com
 
